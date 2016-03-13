@@ -20,7 +20,7 @@ Simple POC
 
 ## Installation
 
-    git clone https://github.com/adioss/TiddlyWikiToZimConverter.git
+    git clone https://github.com/adioss/HubicPOC.git
 
 To edit code, import project based on maven using root pom.
 
