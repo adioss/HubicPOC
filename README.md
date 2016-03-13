@@ -1,5 +1,5 @@
 # HubicPOC
-Simple POC to test OVH HUBIC API
+Simple POC to test OVH HUBIC API/oauth2 implementation
 
 See:
 * for auth: https://api.hubic.com/sandbox/ and https://api.hubic.com/docs/#/oauth2
