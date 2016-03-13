@@ -6,9 +6,9 @@ See:
 * for openstack usage: http://developer.openstack.org/api-ref-objectstorage-v1.html
 
 ## Synopsis
-* see com.adioss.ovh.HubicClient. Able to
-** upload/download/list/delete/copy/get info/change metadata of file
-** create a directory
+* see com.adioss.ovh.HubicClient. Able to:
+  * upload/download/list/delete/copy/get info/change metadata of file
+  * create a directory
 
 ## Code Example
 
